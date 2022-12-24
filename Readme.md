@@ -1,6 +1,6 @@
 # Pheonix Chat Application🛍️🛍️
 
-### you can check this repository by clicking here<a href="https://dynamic-platypus-257787.netlify.app"> - Link</a>
+<!-- ### you can check this repository by clicking here<a href="https://dynamic-platypus-257787.netlify.app"> - Link</a> -->
 
 ## Steps to Start the App
 
