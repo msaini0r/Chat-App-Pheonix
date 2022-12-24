@@ -1,5 +1,7 @@
 # Pheonix Chat Application🛍️🛍️
 
+### you can check this repository by clicking here<a href="https://dynamic-platypus-257787.netlify.app"> - Link</a>
+
 ## Steps to Start the App
 
 #### 1) Install the Public & Server Dependencies
@@ -14,7 +16,6 @@
 
 ### Note - Make sure you have mongoDB installed locally.
 
-<!-- you can check this rrepository by clicking here<a href="https://msaini0r.github.io/E-Commerce-Website/"> - Link</a> -->
 <br>
 
 ## Preview ✅
